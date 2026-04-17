@@ -13,6 +13,14 @@ The platform integrates structured data engineering pipelines, vector search, se
 - **Sai Ganesh Venkata Vipanch Gadi**
 
 ---
+## 📘 Weekly Project Log
+
+We maintain a detailed weekly development log documenting progress, milestones, architecture decisions, and implementation updates throughout the development of **JobPrep AI**.
+
+🔗 **Weekly Project Log:**  
+https://docs.google.com/document/d/1bQE00ytcLbD3CTGEz_bJ8MaR2wmVFdkP2smiPPQnmO8/edit?usp=sharing
+
+This log demonstrates continuous development, accountability, and iterative improvements across data engineering, AI engineering, and application layers.
 
 ## 🚀 Problem Statement
 
