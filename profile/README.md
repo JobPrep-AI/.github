@@ -176,7 +176,7 @@ jobprep-ai/
 ## 📽️ Demo / Presentation
 
 🎥 **Project Demo & Presentation:**  
-[https://drive.google.com/YOUR_PRESENTATION_LINK_HERE](https://drive.google.com/file/d/1EfiRShIM4dS5qSG8ZxwQyPHSqUPVuOJD/view?usp=sharing)
+https://drive.google.com/file/d/1EfiRShIM4dS5qSG8ZxwQyPHSqUPVuOJD/view?usp=sharing
 
 ## 📈 Future Enhancements
 
